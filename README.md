@@ -34,7 +34,7 @@ Otras maneras de preparación:
 [TALLARINES VERDES + CHURRASCO 👨‍🍳❤](https://www.youtube.com/watch?v=AJ0byCzKjwQ)
 
 
-[TALLARINES VERDES | RECETA PERUANA | Sazón y Corazón](https://www.youtube.com/watch?v=enxbUqDbq2g)
+[TALLARINES VERDES RECETA PERUANA Sazón y Corazón](https://www.youtube.com/watch?v=enxbUqDbq2g)
 
 
-[TE ENSEÑO A PREPARAR TALLARINES VERDE CON BISTEC APANADO | GIACOMO BOCCHIO](https://www.youtube.com/watch?v=VwMHe7nnZ3k)
+[TE ENSEÑO A PREPARAR TALLARINES VERDE CON BISTEC APANADO GIACOMO BOCCHIO](https://www.youtube.com/watch?v=VwMHe7nnZ3k)
