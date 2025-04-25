@@ -23,6 +23,8 @@ git status
 Selecciono que voy a subir
 '''
 git add <nombre_archivo>
+
+git add . (<selecciona todos los archivos que sufrieron cambios>)
 '''
 
 ## 🚀Paso 02 flujo ACP (commit)
@@ -36,3 +38,5 @@ Enviamos los cambios de nuestro repositorio local al repositorio remoto.
 '''
 git push origin <nombre_rama>
 '''
+
+Gracias porvisitar nuestra documentación 💚
