@@ -24,3 +24,15 @@ Selecciono que voy a subir
 '''
 git add <nombre_archivo>
 '''
+
+## 🚀Paso 02 flujo ACP (commit)
+Escribimos el comentario con que se subirá este archivo a git. Debe sintetizar todo lo que hemos hecho en pocas palabras.
+'''
+git commit -m "Comentario"
+'''
+
+## 🚀Paso 03 flujo ACP (push)
+Enviamos los cambios de nuestro repositorio local al repositorio remoto.
+'''
+git push origin <nombre_rama>
+'''
